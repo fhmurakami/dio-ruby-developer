@@ -58,7 +58,7 @@ def calculate(option)
     else
       # If the option selected by the user is invalid, shows an error message.
       result = show_error()
-    end
+  end
   # Returns the result of the operation as a string.
   return result
 end
